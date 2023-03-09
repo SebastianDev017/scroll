@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.container{
+ width: 500px;
+ height: 500px;
+ display: block;
+ margin: auto;
+}
+.container h1{
+    text-align: center;
+    color: red;
+}
+.container p{
+
+}
+.container img{
+    max-width: 100%;
+    display: flex;
+    width: 200px;
+    margin: auto;
+    height: auto;
+}
+.container-principal{
+    display: flex;
+    width: 100%;
+    height: 300px;
+}
+.container-principal h1{
+    margin: auto;
+    text-align: center;
+}
